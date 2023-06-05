@@ -3,9 +3,9 @@
 .navbar {
     display: flex;
     align-items: center;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     height: 139px;
-    width: 111%;
+    width: 119rem;
 
 }
 
@@ -34,7 +34,7 @@
 }
 
 ul#second {
-    margin-left: 33rem;
+    margin-left: 40em;
 }
 
 #logo {
@@ -52,7 +52,7 @@ ul#second {
     text-align: center;
     border: 2px solid white;
     height: 600px;
-    width: 111%;
+    width: 120rem;
     background: url("img1.jpg") no-repeat center center/cover;
 
 }
@@ -67,7 +67,7 @@ ul#second {
 }
 
 #container1 .frm {
-    margin-left: 33rem;
+    margin-left: 35rem;
 }
 
 #container1 .frm img {
@@ -107,7 +107,7 @@ ul#second {
 #container2 {
     display: flex;
     padding: 52px;
-    width: 108%;
+    width: 115rem
 }
 
 #container2 .item1 {
@@ -169,7 +169,7 @@ ul#second {
     justify-content: center;
     padding: 105px;
     background-color: #f5f4f4;
-    width: 100%;
+    width: 107rem;
 }
 
 #container3 .box1 {
@@ -290,7 +290,7 @@ ul#second {
     align-items: center;
     padding-bottom: 50px;
     padding-top: 50px;
-    width: 111%;
+    width: 115rem;
 }
 
 /* #container4 .card1 {
@@ -341,7 +341,7 @@ ul#second {
     align-items: center;
     flex-direction: column;
     height: 160px;
-    width: 111%;
+    width: 120rem;
 }
 #container5 a{
     margin-right: 50px;
@@ -366,7 +366,7 @@ ul#second {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 111%;
+    width: 120rem;
     flex-direction: column;
 }
 
@@ -376,7 +376,7 @@ ul#second {
     justify-content: center;
     margin-top: 50px;
     flex-direction: column;
-    width: 111%;
+    width: 120rem;
 }
 .foot .mylogo img{
     height: 30px;
