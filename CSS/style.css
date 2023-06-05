@@ -3,8 +3,10 @@
 .navbar {
     display: flex;
     align-items: center;
-    /* border: 2px solid black; */
+    border: 2px solid black;
     height: 139px;
+    width: 111%;
+
 }
 
 .navbar ul {
@@ -32,11 +34,11 @@
 }
 
 ul#second {
-    margin-left: 38rem;
+    margin-left: 33rem;
 }
 
 #logo {
-    padding-left: 22rem;
+    padding-left: 19rem;
 }
 
 #logo img {
@@ -50,7 +52,7 @@ ul#second {
     text-align: center;
     border: 2px solid white;
     height: 600px;
-
+    width: 111%;
     background: url("img1.jpg") no-repeat center center/cover;
 
 }
@@ -65,7 +67,7 @@ ul#second {
 }
 
 #container1 .frm {
-    margin-left: 37rem;
+    margin-left: 33rem;
 }
 
 #container1 .frm img {
@@ -105,6 +107,7 @@ ul#second {
 #container2 {
     display: flex;
     padding: 52px;
+    width: 108%;
 }
 
 #container2 .item1 {
@@ -166,6 +169,7 @@ ul#second {
     justify-content: center;
     padding: 105px;
     background-color: #f5f4f4;
+    width: 100%;
 }
 
 #container3 .box1 {
@@ -282,10 +286,11 @@ ul#second {
 
 #container4 {
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
     padding-bottom: 50px;
     padding-top: 50px;
+    width: 111%;
 }
 
 /* #container4 .card1 {
@@ -316,9 +321,9 @@ ul#second {
     font-size: 29px;
 } */
 #container4 a{
-    margin-left: 12rem;
-    font-size: 29px;
-    border-right: 4px solid gray;
+    /* margin-left: 12rem; */
+    font-size: 25px;
+    /* border-right: 4px solid gray; */
     text-decoration: none;
     padding-right: 150px;
     color: black;
@@ -336,6 +341,7 @@ ul#second {
     align-items: center;
     flex-direction: column;
     height: 160px;
+    width: 111%;
 }
 #container5 a{
     margin-right: 50px;
@@ -360,7 +366,7 @@ ul#second {
     display: flex;
     justify-content: center;
     align-items: center;
-
+    width: 111%;
     flex-direction: column;
 }
 
@@ -370,6 +376,7 @@ ul#second {
     justify-content: center;
     margin-top: 50px;
     flex-direction: column;
+    width: 111%;
 }
 .foot .mylogo img{
     height: 30px;
